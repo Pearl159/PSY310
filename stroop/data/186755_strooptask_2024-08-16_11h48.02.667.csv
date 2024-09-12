@@ -1,0 +1,4 @@
+﻿word,color,stim_condition,correct_res,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,thisRow.t,notes,ins.started,text_2.started,text_2.stopped,ins.stopped,trial.started,fixation.started,fixation.stopped,text.started,key_resp.started,text.stopped,trial.stopped,key_resp.keys,key_resp.corr,key_resp.rt,key_resp.duration,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+,,,,,,,,,,0.002859200001694262,0.006779599993024021,1.0228248999919742,0.9905332000053022,,,,,,,,,,,,186755,001,2024-08-16_11h48.02.667,strooptask,2024.1.5,None,2024-08-16 11h48.12.288949 +0530,
+None,None,None,None,0,0,0,6,1.0228248999919742,,,,,,1.0130300000018906,1.0228248999919742,1.506215000001248,1.506215000001248,1.506215000001248,6.508148599998094,11.103195799980313,r,0,9.583886799984612,None,186755,001,2024-08-16_11h48.02.667,strooptask,2024.1.5,None,2024-08-16 11h48.12.288949 +0530,
+,,,,,,,,,,,,,,11.106054200005019,,,,,,,,,,,,,,,,,,
